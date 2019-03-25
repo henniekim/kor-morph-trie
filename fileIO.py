@@ -22,7 +22,7 @@ class Dict :
 
         self.contents = None
         self.numberOfContents = 0
-        self.filePath = "dictionary.txt"
+        self.filePath = "dictionary_org.txt"
 
     def load(self, filePath):
         try:
